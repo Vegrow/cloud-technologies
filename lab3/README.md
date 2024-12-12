@@ -49,7 +49,7 @@
 
 ![image](img/Screenshot_10.png)
 
-Далее создаем дисковый пул в разделе `Pools`. Имя пусть будет `testPool`, размер 7 GB:
+Далее создаем дисковый пул в разделе `Pools`. Имя пусть будет `testPool`:
 
 ![image](img/Screenshot_11.png)
 
